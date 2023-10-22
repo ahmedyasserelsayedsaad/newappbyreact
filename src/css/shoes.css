@@ -1,0 +1,57 @@
+.pp{
+    border: 3px solid #088178;
+    color: #088178;
+    outline: none;
+    border-radius: 10px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 6px;
+}
+.mybtn{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #088178;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.bhb{
+    margin-left:6px;
+    background-color: #088178;
+    outline: none;
+    border: none;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    background-color: #088178;
+    transition: all 0.4s ease;
+    border-radius: 10px;
+}
+.bhb:hover{
+    background-color: white;
+    color:  #088178;
+}
+.bhb:focus
+{
+    background-color: white;
+    color:  #088178;
+}
+.bhb img{
+    width: 28px;
+    height: 28px;
+    padding-right: 3px;
+    border-radius: 20px;
+}
+.card img{
+    border-radius: 17px;
+    height: 230px;
+    padding: 10px;
+    transition: all 0.4s ease;
+}
+.card:hover img{
+    transform: scale(0.7);
+}

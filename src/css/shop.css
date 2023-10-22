@@ -1,0 +1,36 @@
+.mybtn{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #088178;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.btns{
+    background-color: #088178;
+    outline: none;
+    border: none;
+    color: white;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    background-color: #088178;
+    transition: all 0.4s ease;
+    border-radius: 10px;
+}
+.btns:hover{
+    background-color: white;
+    color:  #088178;
+}
+.btns:focus
+{
+    background-color: white;
+    color:  #088178;
+}
+.btns img{
+    width: 28px;
+    height: 28px;
+    padding-right: 3px;
+}

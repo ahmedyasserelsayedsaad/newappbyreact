@@ -1,0 +1,101 @@
+.con-btn{
+    background-color: #088178;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    transition:all 0.3s ease ;
+    padding:10px ;
+}
+.con-btn:hover{
+    background-color: rgb(245, 242, 237); 
+    border: 2px solid #088178;
+    color: #088178;
+    transform: scale(1.1);
+}
+.mylink span a{
+    color :#088178;
+    text-decoration: none;
+    padding-left:3px;
+}
+.btnf{
+    outline: none;
+    background-color: white;
+    border-radius: 40px;
+    border: none;
+    padding-right: 20px;
+    
+}
+.btnf p{
+padding-left: 10px;
+padding-top: 13px;
+}
+.btnf i{
+  background-color: #1877f2;
+  color: white;
+  font-size: 15px;
+  padding: 6px;
+    border-radius: 50%;
+}
+.btnt{
+    outline: none;
+    background-color: white;
+    border-radius: 40px;
+    border: none;
+    padding-right: 26px;
+    
+}
+.btnt p{
+padding-left: 17px;
+padding-top: 13px;
+}
+.btnt i{
+  background-color: #14171a;
+  color: white;
+  font-size: 15px;
+  padding: 6px;
+    border-radius: 50%;
+}
+.btnl{
+    outline: none;
+    background-color: white;
+    border-radius: 40px;
+    border: none;
+    padding-right: 20px;
+    
+}
+.btnl p{
+padding-left: 10px;
+padding-top: 13px;
+}
+.btnl i{
+  background-color: #004182;
+  color: white;
+  font-size: 15px;
+  padding: 6px;
+    border-radius: 50%;
+}
+.btni{
+    outline: none;
+    background-color: white;
+    border-radius: 40px;
+    border: none;
+    padding-right: 20px;
+    
+}
+.btni p{
+padding-left: 10px;
+padding-top: 13px;
+}
+.btni i{
+  background-color: #e1306c;
+  color: white;
+  font-size: 15px;
+  padding: 6px;
+    border-radius: 50%;
+}
+
+.face-item{
+   
+    padding: 4px;
+}
